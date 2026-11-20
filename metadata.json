@@ -1,0 +1,10 @@
+{
+  "name": "Remix Roxy AI -  Voice Assistant",
+  "description": "A sassy, confident, real-time voice and interactive text chat AI companion built with Gemini Live and Gemini 3.7 API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
